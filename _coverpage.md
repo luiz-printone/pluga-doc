@@ -9,5 +9,6 @@
 - Aumente suas receitas com uma infraestrutura completa
 
 [Site](https://pluga.vc) 
+[Instagram](https://instagram.com/pluga.vc)
 
 ![color](#f0f0f0)

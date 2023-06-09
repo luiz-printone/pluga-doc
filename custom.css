@@ -1,0 +1,5 @@
+body > section > div.cover-main > blockquote > p, body > section > div.cover-main > ul {
+
+    text-shadow: 2px 2px 5px black;
+}
+

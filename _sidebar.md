@@ -1,0 +1,11 @@
+<!-- docs/_sidebar.md -->
+* [Introdução](README.md)
+* [Dashboard](dashboard.md)
+* [Coordenadores](coordenadores.md)
+* [Eventos](eventos.md)
+* [Clientes](clientes.md)
+* [Fotógrafos](fotografos.md)
+* [Fotos](fotos.md)
+* [Instituições](instituicoes.md)
+* [Turmas](turmas.md)
+* [Configurações](configuracoes.md)

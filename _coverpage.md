@@ -8,6 +8,6 @@
 - Separe suas fotos por meio do Reconhecimento Facial
 - Aumente suas receitas com uma infraestrutura completa
 
-[Site](https://print-one.com.br) 
+[Site](https://pluga.vc) 
 
 ![color](#f0f0f0)

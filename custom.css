@@ -3,3 +3,6 @@ body > section > div.cover-main > blockquote > p, body > section > div.cover-mai
     text-shadow: 2px 2px 5px black;
 }
 
+body > section > div.cover-main > p:nth-child(1) > img {
+    width: 75%;
+}

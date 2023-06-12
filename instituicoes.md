@@ -6,7 +6,7 @@ O registro de **Instituição** É o primeiro item a ser cadastrado na hierarqui
 Ao clicar em **Instituições** no canto esquerdo, você será redirecionado a lista de instituições cadastradas. As opções disponibilizadas são as de Criação, Alteração e Exclusão de Instituições.
 
 <div align=center>
-<img class="border1" width="80%" src="../_media/instlista.png"/>
+<img class="border1" width="80%" style="border-radius: 26px;"  src="../_media/instlista.png"/>
 </div>
 
 ## Cadastro
@@ -27,5 +27,5 @@ O cadastro de Instituição consiste no preenchimento dos seguintes campos:
 Após cadastrar, o registro ficará disponível para vinculação nas operações da plataforma.
 
 <div align=center>
-<img class="border1" width="80%" src="../_media/instcad.png"/>
+<img class="border1" width="80%" style="border-radius: 26px;"  src="../_media/instcad.png"/>
 </div>

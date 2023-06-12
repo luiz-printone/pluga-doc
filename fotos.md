@@ -23,7 +23,7 @@ O botão de **Filtrar** na área de Fotos abre campos que permitem o levantament
 Além disso, há um parâmetro de busca que pode ser ativado que é o de **"Carregar apenas fotos que não foram reconhecidas"** permitindo com que sejam filtradas somente fotos que não estão em nenhuma biblioteca de fotos reconhecidas de seus clientes.
 
 <div align=center>
-<img class="border1" width="80%" src="../_media/fotocad.png"/>
+<img class="border1" width="80%" style="border-radius: 26px;"  src="../_media/fotocad.png"/>
 </div>
 
 ## Adicionar Fotos
@@ -39,5 +39,5 @@ Após realizar a definição destes dados, clique em **Escolher Arquivos** para 
 ?> **Dica**: Você pode duplicar abas para subir fotos de eventos, fotógrafos e turmas diferentes.
 
 <div align=center>
-<img class="border1" width="80%" src="../_media/upload.png"/>
+<img class="border1" width="80%" style="border-radius: 26px;"  src="../_media/upload.png"/>
 </div>

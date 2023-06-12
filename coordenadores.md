@@ -5,7 +5,7 @@ Dentro da hierarquização de sua base de fotos do Pluga, o **Coordenador** é u
 
 Ao clicar em **Coordenadores** no canto esquerdo, você será redirecionado a lista de coordenadores. Nesta lista você terá as opções de Criar, Alterar os Dados, Alterar a Senha e Excluir Coordenadores.
 <div align=center>
-<img class="border1" width="80%" src="../_media/coordlista.png"/>
+<img class="border1" width="80%" style="border-radius: 26px;"  src="../_media/coordlista.png"/>
 </div>
 
 
@@ -20,5 +20,5 @@ O Cadastro de Coordenador é simples e consiste no preenchimento dos campos de:
 Posteriormente, o Coordenador pode entrar por meio de **Acesso do Fotógrafo** com seu e-mail e senha para visualizar e também enviar fotos para a turma vinculada.
 
 <div align=center>
-<img class="border1" width="80%" src="../_media/coordcad.png"/>
+<img class="border1" width="80%" style="border-radius: 26px;"  src="../_media/coordcad.png"/>
 </div>

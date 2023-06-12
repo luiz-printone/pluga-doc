@@ -17,7 +17,7 @@ Na lista de clientes você terá acesso a uma lista com todos os seus clientes o
 - **Ações** - Botões com as ações à serem realizadas para o cliente sendo elas: Enviar foto por e-mail, Download de Todas as Fotos, Alterar Senha do Cliente, Alterar Cadastro do Cliente e Remover Cliente
 
 <div align=center>
-<img class="border1" width="80%" src="../_media/clientelista.png"/>
+<img class="border1" width="80%" style="border-radius: 26px;"  src="../_media/clientelista.png"/>
 </div>
 
 ## Cadastro
@@ -39,13 +39,13 @@ Os campos para criação do cliente são os de:
 - Campos de Endereço: Cep, Logradouro, Número, Complemento, Bairro, Cidade, Estado.
 
 <div align=center>
-<img class="border1" width="80%" src="../_media/clientecad.png"/>
+<img class="border1" width="80%" style="border-radius: 26px;"  src="../_media/clientecad.png"/>
 </div>
 
 A **Foto de Avatar** fica disponível para atribuição ao cadastro do cliente após a criação, acessando o registro do cliente cadastrado por meio do botão de **Alterar**.
 
 <div align=center>
-<img class="border1" width="80%" src="../_media/clientefoto.png"/>
+<img class="border1" width="80%" style="border-radius: 26px;"  src="../_media/clientefoto.png"/>
 </div>
 
 ## Exportar para Loja
@@ -59,7 +59,7 @@ Para cadastrar clientes em lote, você terá disponibilizada uma planilha modelo
 !> A foto de avatar deve ser definida por cliente, após a importação.
 
 <div align=center>
-<img class="border1" width="80%" src="../_media/import.png"/>
+<img class="border1" width="80%" style="border-radius: 26px;"  src="../_media/import.png"/>
 </div>
 
 ## Biblioteca de Fotos Reconhecidas do Cliente
@@ -67,7 +67,7 @@ Para cadastrar clientes em lote, você terá disponibilizada uma planilha modelo
 Ao clicar no botão presente na coluna de **Fotos**, você será redirecionado a lista com todas as fotos reconhecidas do cliente. Nesta tela você terá como realizar operações importantes como o **Reconhecimento Facial** e a filtragem de fotos por Turma, Instituição, Evento e Fotógrafo.
 
 <div align=center>
-<img class="border1" width="80%" src="../_media/reconhecidas.png"/>
+<img class="border1" width="80%" style="border-radius: 26px;"  src="../_media/reconhecidas.png"/>
 </div>
 
 ### Reconhecer Fotos ###
@@ -103,7 +103,7 @@ No campo **Corpo do E-mail**, digite a mensagem que deseja enviar para o seu cli
 ?> O e-mail enviado tem o layout de e-mail transacional do Pluga.Vc. O logo no topo do e-mail é o mesmo cadastrado no registro de **Turma** onde o cliente em questão está vinculado.
 
 <div align=center>
-<img class="border1" width="80%" src="../_media/email.png"/>
+<img class="border1" width="80%" style="border-radius: 26px;"  src="../_media/email.png"/>
 </div>
 
 Após concluir a operação, seu cliente receberá, no e-mail registrado em seu cadastro, uma mensagem com o link para download das fotos e a mensagem definida pelo administrador.

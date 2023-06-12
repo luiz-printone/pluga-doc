@@ -9,7 +9,7 @@ O Evento é um parâmetro obrigatório para definição na operação de Upload 
 Ao clicar em **Eventos** no canto esquerdo, você será redirecionado à lista de Eventos cadastrados em seu acesso com as opções de Criar, Alterar ou Remover Eventos.
 
 <div align=center>
-<img class="border1" width="80%" src="../_media/eventolista.png"/>
+<img class="border1" width="80%" style="border-radius: 26px;"  src="../_media/eventolista.png"/>
 </div>
 
 
@@ -26,6 +26,6 @@ O cadastro de Evento consiste no preenchimento dos seguintes Campos:
 ?> O campo de **Fotógrafos** é um campo de seleção com os fotógrafos cadastrados na seção de Fotógrafos.
 
 <div align=center>
-<img class="border1" width="80%" src="../_media/eventocad.png"/>
+<img class="border1" width="80%" style="border-radius: 26px;"  src="../_media/eventocad.png"/>
 </div>
 

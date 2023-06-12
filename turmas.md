@@ -11,7 +11,7 @@ Na lista de turmas, todas as turmas cadastradas serão exibidas organizadas pela
 - **Ações** - Botões com as ações à serem realizadas para a turma sendo elas: Gerar Link para upload de fotos, gerar link para o cliente se cadastrar, Download de Fotos favoritadas/reconhecidas da turma, Editar Turma e Remover Turma
 
 <div align=center>
-<img class="border1" width="80%" src="../_media/turmalista.png"/>
+<img class="border1" width="80%" style="border-radius: 26px;"  src="../_media/turmalista.png"/>
 </div>
 
 ## Cadastro
@@ -36,7 +36,7 @@ Os campos de integração não são obrigatórios e serão preenchidos somente s
 Após preencher os campos, clique em **Cadastrar** para finalizar a operação. A turma então ficará disponível para vinculação na plataforma.
 
 <div align=center>
-<img class="border1" width="80%" src="../_media/turmacad.png"/>
+<img class="border1" width="80%" style="border-radius: 26px;"  src="../_media/turmacad.png"/>
 </div>
 
 ## Gerar Link para Upload de Fotos
@@ -46,7 +46,7 @@ Ao clicar neste botão, no registro da turma, será copiado um link para sua ár
 Este link pode ser enviado para pessoas que não sejam administradores ou fotógrafos para que estas possam também armazenar fotos.
 
 <div align=center>
-<img class="border1" width="80%" src="../_media/upcad.png"/>
+<img class="border1" width="80%" style="border-radius: 26px;"  src="../_media/upcad.png"/>
 </div>
 
 
@@ -67,7 +67,7 @@ Após a conclusão do cadastro, o sistema fará o reconhecimento automaticamente
 O link de cadastro da turma poderá ser enviado para os participantes/formandos da turma em questão e o cadastro os vinculará automaticamente a instituição e turma correspondente.
 
 <div align=center>
-<img class="border1" width="80%" src="../_media/cadastro.png"/>
+<img class="border1" width="80%" style="border-radius: 26px;"  src="../_media/cadastro.png"/>
 </div>
 
 ## Download de Fotos da Turma
@@ -79,7 +79,7 @@ As fotos da turma serão baixadas em um arquivo **.ZIP** organizadas por aluno, 
 Para realizar o download das fotos, é necessário, primeiro, clicar no botão **Gerar Links**. Ao clicar, o sistema iniciará o processo de geração de links de download. O sistema fará a geração de múltiplos links para a realização do download de fotos da turma. Os links são separados pois as turmas possuem muitas fotos e para que o servidor possa gerar todas as fotos, é preciso separar em arquivos diferentes pois o tamanho é muito grande. O número de links varia conforme o número de fotos reconhecidas/favoritadas. Se houverem poucas fotos, consequentemente haverão menos links para geração e vice-versa. Os links ficam disponíveis por 15 dias após a geração. Depois desse período, será necessário gerar novamente.
 
 <div align=center>
-<img class="border1" width="80%" src="../_media/links.png"/>
+<img class="border1" width="80%" style="border-radius: 26px;"  src="../_media/links.png"/>
 </div>
 
 !> Caso haja uma atualização na turma, seja de novo reconhecimento facial nos clientes ou novas favoritações por parte dos clientes, será necessário realizar uma nova geração. Para isso, delete os links disponíveis e gere os links novamente.

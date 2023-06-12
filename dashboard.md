@@ -16,7 +16,7 @@ As informações estão dispostas em 4 blocos divididos em:
 - **Favoritadas** - Este é o número de Fotos favoritadas pelos seus clientes quando estes acessam suas fotos por meio do **Acesso de Cliente**.
 
 <div align=center>
-<img class="border1" width="80%" src="../_media/dash.png"/>
+<img class="border1" width="80%" style="border-radius: 26px;"  src="../_media/dash.png"/>
 </div>
 
 ## Estatísticas de Fotos
@@ -33,7 +33,7 @@ Nos gráficos disponibilizados na Dashboard, o administrador pode visualizar e m
 Neste gráfico serão exibidas as quantidades de armazenamento em Gigabytes (GB) máximo que seu acesso manteve à cada mês. 
 
 <div align=center>
-<img class="border1" width="80%" src="../_media/grafico1.png"/>
+<img class="border1" width="80%" style="border-radius: 26px;"  src="../_media/grafico1.png"/>
 </div>
 
 ### Quantidade de Fotos
@@ -43,5 +43,5 @@ Neste gráfico serão exibidas as quantidadades de fotos armazenadas à cada mê
 !>Lembre-se que fotos excluídas no **Mês Vigente** terão o custo abatido em sua fatura somente no **Mês Seguinte**.
 
 <div align=center>
-<img class="border1" width="80%" src="../_media/grafico2.png"/>
+<img class="border1" width="80%" style="border-radius: 26px;"  src="../_media/grafico2.png"/>
 </div>

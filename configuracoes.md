@@ -13,5 +13,5 @@ No campo de **Termos de Uso** , você poderá definir um texto que será exibido
 Na área de **Integrações** existem campos para conectar seu acesso do Pluga à sua plataforma da Print-One. Consiste nos campos de **Chave do Editor**, **Chave da Loja** e **URL da Loja**. É possível saber onde reunir essas informações ao passar o mouse sobre o *tooltip* disponibilizado nos campos. 
 
 <div align=center>
-<img class="border1" width="80%" src="../_media/configuracoes.png"/>
+<img class="border1" width="80%" style="border-radius: 26px;"  src="../_media/configuracoes.png"/>
 </div>

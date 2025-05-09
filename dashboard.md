@@ -23,8 +23,8 @@ As informações estão dispostas em 4 blocos divididos em:
 
 ### Faturamento
 Sua conta do Pluga.Vc realiza o faturamento das suas fotos da seguinte maneira:
-- Todas as fotos **armazenadas no mês** têm o custo de **R$0,04** centavos por foto.
-- Todas as fotos já armazenadas **(enviadas em meses anteriores)** tem o custo de **R$0,01** por foto no mês atual.
+- Todas as fotos **armazenadas no mês** tem um custo fixo por foto enviada.
+- Todas as fotos já armazenadas **(enviadas em meses anteriores)** tem um custo diferente e geralmente reduzido por foto no mês atual.
 
 Nos gráficos disponibilizados na Dashboard, o administrador pode visualizar e manter o controle de suas fotos.
 
